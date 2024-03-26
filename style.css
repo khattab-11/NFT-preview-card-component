@@ -1,0 +1,126 @@
+body {
+  padding: 0;
+  margin: 0;
+  align-items: center;
+  background: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+}
+
+form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 500px;
+    width: 300px;
+    transform: translate(-50%, -50%);
+    background: hsl(216, 50%, 16%);
+    border-radius: 20px;
+ box-shadow: 0 5px 10px rgba(0,0,0,0.3) inset;
+ box-shadow:  0 20px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#img1 {
+    position: absolute;
+    height: 270px;
+    width: 270px;
+    top: 4%;
+    left: 5%;
+    border-radius: 10px;
+}
+
+#Eq {
+    position: absolute;
+    top: 60%;;
+    left: 6%;
+    font-size: 20px;
+    color: hsl(0, 0%, 100%);
+    font-weight: 400;
+}
+
+#Ou {
+    position: absolute;
+    top: 70%;;
+    left: 6%;
+    font-size: 15px;
+    color: hsl(215, 32%, 27%);
+    font-weight: 400;
+
+}
+
+#ETH {
+    position: absolute;
+    top: 84%;;
+    left: 9%;
+    font-size: 15px;
+    color: hsl(178, 100%, 50%);
+    font-weight: 500;
+}
+
+#img2{
+    position: absolute;
+    top:  86%;
+    left: 6%;
+    height: 14px;
+    width: 7px;
+
+}
+
+#day {
+    position: absolute;
+    top: 84%;;
+    left: 70%;
+    font-size: 14px;
+    color: hsl(215, 51%, 70%);
+    font-weight: 400;
+
+}
+
+#img3 {
+    position: absolute;
+    top: 86%;;
+    left: 63%;
+    height: 15px;
+    width: 15px;
+
+
+}
+
+hr{
+ position: absolute;
+ top: 90%;
+ left: 7%;
+ width: 250px;
+}
+
+#Creation {
+    position: absolute;
+    top: 93%;
+    left: 20%;
+    display: block;
+    font-size: 14px;
+    color: hsl(215, 51%, 70%);
+    font-weight: 400;
+
+}
+
+#Jules {
+    position: absolute;
+    top: 93%;
+    left: 44%;
+    display: block;
+    font-size: 14px;
+    color: hsl(0,0%, 100%);
+    font-weight: 400;
+
+}
+
+#avatar {
+ position: absolute;
+ top: 93%;
+ left: 7%;
+ width: 29px;
+ display: block;
+ 
+}
+
+
